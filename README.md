@@ -3,6 +3,7 @@
 
 * Breast Ultrasound Dataset
 BUS-BRA ( 8/2023)
+
 4 scanners during studies at the National Institute of Cancer in Brazil.
 1875 anonymized images from 1064 female patients.
 Biopsy-proven tumors: 722 benign and 342 malignant cases.
@@ -10,6 +11,10 @@ BI-RADS assessments, the tumors into categories 2 to 5.
 5-fold and 10-fold cross-validation.
 PNG format files, metadata.
 Masks and BBOX information.
-![image](https://github.com/user-attachments/assets/3247f017-880a-4727-b187-e88798732e47)
+*Wilfrido Gómez-Flores, Maria Julia Gregorio-Calas, and Wagner Coelho de Albuquerque Pereira, "BUS-BRA: A Breast Ultrasound Dataset for Assessing Computer-aided Diagnosis Systems," Medical Physics, vol. 51, no. 4, pp. 3110-3123, 2024. (DOI http://doi.org/10.1002/mp.16812).
+
+
+Results![image](https://github.com/user-attachments/assets/0ff44e94-105e-4202-ac2f-33c446d6dd9e)
+
 
 
