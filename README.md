@@ -1,6 +1,15 @@
 # SegAugmentBreastImg
 "SegAugmentBreastImg" is a project focused on developing and optimizing segmentation and data augmentation techniques for medical images related to the breast sound region. The primary goal is to enhance the performance of deep learning models by providing tailored data augmentation methods and achieving more accurate segmentation results.
 
+# Requirements
+Install the libraries below to use the model.
+
+PyTorch and Torchvision => https://pytorch.org/ (the latest and GPU version are recommended)
+Pytorch Image Model => https://pypi.org/project/timm/
+Transformers => https://huggingface.co/docs/transformers/installation
+# Training
+python main.py --model=1 --dataset_name='KVASIR-SEG'
+
 * Breast Ultrasound Dataset
 BUS-BRA ( 8/2023)
 
